@@ -21,3 +21,4 @@ Icon
 
 # media
 *.mp4
+!assets/**/*.mp4
